@@ -7,11 +7,26 @@ scrollToAnchor = (aid) ->
 $(".myname").click ->
   scrollToAnchor "MattCano"
 
-$(".about").click ->
-  scrollToAnchor "me"
+$(".ourstory").click ->
+  scrollToAnchor "ourstorysec"
 
-$(".projects").click ->
-  scrollToAnchor "myprojects"
+$(".bridesmaids").click ->
+  scrollToAnchor "bridesmaidssec"
+
+$(".groomsmen").click ->
+  scrollToAnchor "groomsmensec"
+
+$(".location").click ->
+  scrollToAnchor "locationsec"
+
+$(".accommodations").click ->
+  scrollToAnchor "accommodationssec"
+
+$(".registry").click ->
+  scrollToAnchor "registrysec"
+
+$(".honeymoon").click ->
+  scrollToAnchor "honeymoonsec"
 
 $('.tooltipclass').tooltip()
 $('.tooltipclass').attr('data-toggle', 'tooltip')

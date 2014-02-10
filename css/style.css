@@ -68,8 +68,8 @@ img#jumbo-image {
   margin-left: auto; }
 
 .project-thumbnails .thumbnail {
-  min-height: 525px;
-  padding-bottom: 20px;
+  min-height: 0px;
+  padding-bottom: 0px;
   position: relative; }
   .project-thumbnails .thumbnail .lead {
     min-height: 60px; }

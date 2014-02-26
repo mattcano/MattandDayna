@@ -53,13 +53,12 @@ img#jumbo-image {
   white-space: pre-wrap; }
 
 #sectAboutMe {
-  margin-top: 150px;
-  margin-bottom: 75px; }
+  margin-top: 30px; }
 
 #photoAboutMe {
   border-radius: 70px;
   box-shadow: 0px 0px 5px 6px rgba(0, 0, 0, 0.2);
-  margin-top: 10%; }
+  margin-top: 0%; }
 
 .thumbnail img {
   display: block;
@@ -68,7 +67,7 @@ img#jumbo-image {
   margin-left: auto; }
 
 .project-thumbnails .thumbnail {
-  min-height: 0px;
+  min-height: 340px;
   padding-bottom: 0px;
   position: relative; }
   .project-thumbnails .thumbnail .lead {
@@ -90,3 +89,7 @@ img#jumbo-image {
     width: 100px; }
   .modal-body #icon-letters li:first-child {
     margin-left: 0px; }
+
+.partyheader {
+  text-align: center;
+  padding: 20px; }

@@ -97,3 +97,6 @@ img#jumbo-image {
 .table th, .table td {
   text-align: center;
   vertical-align: middle; }
+
+#hbutton {
+  text-align: center; }

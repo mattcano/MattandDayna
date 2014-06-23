@@ -49,7 +49,7 @@
 
   $('.craigslist-btn').html('Craigslist');
 
-  $('.craigslist-btn').attr('data-original-title', "We first met on Craigslist when Dayna was  looking for housing in SF and deperate enough to respond to Matt and Travis' post. We will   forever be indebted to this wonder of modern technology.");
+  $('.craigslist-btn').attr('data-original-title', "We first met on Craigslist when Dayna was looking for housing in SF and desperate enough to respond to Matt and Travis' post. We will   forever be indebted to this wonder of modern technology.");
 
   $('.tailgate-btn').html('Tailgate 12.5');
 

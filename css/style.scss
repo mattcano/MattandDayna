@@ -149,5 +149,24 @@ img#jumbo-image {
 }
 
 #spainphoto{
-  margin-bottom: 40px;
+  margin-bottom: 40px; 
+}
+
+#RSVP-header{
+  font-size: 25px;
+  color: white;
+  margin-top: 8px;
+}
+
+.text-muted {
+  color: gray;
+}
+#RSVP-container {
+  margin-top: 75px;
+  #iRSVP {
+    text-align: center;
+    #return-button{
+      margin: 15px;
+    }
+  }
 }
